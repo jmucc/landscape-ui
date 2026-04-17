@@ -1,0 +1,1 @@
+import"./AuthTemplate-OZShvoez.js";
